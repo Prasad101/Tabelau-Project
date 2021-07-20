@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis-in-Tableau
+# Sales Performance Analysis
 
 ## Link to Dashboard on Tableau Public :
       https://public.tableau.com/app/profile/prasad.chaudhari4592/viz/SalesPerformanceAnalysis_16249381233670/SalesPerfomanceAnalysis
