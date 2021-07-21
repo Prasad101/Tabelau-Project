@@ -5,7 +5,7 @@
       
 
 ## Business Scenario: 
-      We have data from a US based laundry company who has its store all over the USA in different cities. Some of the stores are old and some of them are new expansions. We have to analyse the marketing spend and revenue of all states and cities. Also we have to find potential cities where we can expand our business by increasing marketing spend.
+      We have data from a US based laundry company who has its store all over the USA in different cities. Some of the stores are old and some of them are new expansions. We have        to analyse the marketing spend and revenue of all states and cities. Also we have to find potential cities where we can expand our business by increasing marketing spend.
       
 ## Description of Data : 
   We have data of 150 cities scatter througout USA in 35 states 
